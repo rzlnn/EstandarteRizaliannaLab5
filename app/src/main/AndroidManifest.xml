@@ -17,7 +17,7 @@
             </intent-filter>
         </activity>
 
-    <activity android:name=".SecondActivity" android:label="Winford Hotel">
+    <activity android:name=".SecondActivity">
 
     </activity>
     <service android:name=".CustomService"></service>
