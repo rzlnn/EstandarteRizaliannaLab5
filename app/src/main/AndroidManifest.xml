@@ -20,7 +20,7 @@
     <activity android:name=".SecondActivity">
 
     </activity>
-    <service android:name=".CustomService"></service>
+    <service android:name=".MyService"></service>
 </application>
 
 </manifest>
